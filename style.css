@@ -8,9 +8,12 @@
     font-family: 'Quicksand', sans-serif;
 }
 
-input,
+input:hover {
+   border: 1px solid  red;
+}
+
 button:hover {
-    border: 1px solid yellow;
+    border: 1px solid red;
 }
 
 body {
